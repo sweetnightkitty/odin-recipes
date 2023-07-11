@@ -23,3 +23,13 @@ h2 {
 p {
     font-size: 16px;
 }
+
+div.ingredients {
+    background-color: grey;
+    text-align: center;
+}
+
+.ingredients.list {
+    display: inline-block;
+    text-align: left;
+}
