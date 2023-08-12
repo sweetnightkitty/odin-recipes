@@ -2,8 +2,8 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h1 {
-    font-size: 60px;
+h1{
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
 }
@@ -17,7 +17,7 @@ img.header {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 p {
@@ -25,11 +25,18 @@ p {
 }
 
 div.ingredients {
-    background-color: grey;
+    border: 3px solid purple;
     text-align: center;
+    padding: 1rem;
 }
 
 .ingredients.list {
     display: inline-block;
     text-align: left;
+    list-style: none;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
 }
