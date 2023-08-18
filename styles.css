@@ -40,3 +40,33 @@ div.ingredients {
     width: 70%;
     margin: 0 auto;
 }
+
+/* Updates 2023.08.18*/
+
+header {
+    border-bottom: 1px solid lightgray;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul {
+    display: flex;
+    gap: 10px;
+}
+.menu li {
+    list-style-type: none;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid orange;
+    padding-bottom: 5px;
+    text-decoration: none;
+}
