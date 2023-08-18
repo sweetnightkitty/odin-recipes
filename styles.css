@@ -53,12 +53,13 @@ header {
     border-bottom: 1px solid lightgray;
 }
 
-.logo {
+.logo a {
     font-size: 40px;
     font-weight: bold;
     text-align: left;
     padding-bottom: 30px;
     color: orange;
+    text-decoration: none;
 }
 
 .menu {
