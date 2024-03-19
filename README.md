@@ -1,17 +1,13 @@
 # odin-recipes
 This was a project I started for training purposes while completing the Odin Project.
-
+This project began as a simple HTML file, and was updated as I mastered new skills in HTML, CSS/flexbox, and incorporated a log-in page.
 
 # Start Date: July 3, 2023
-Combine command, git, HTML to create a recipe project.
+Combine command, git, HTML to create the basic recipe project.
 
 # Update: July 11, 2023 Add basic CSS
--Add stylesheet: update font-family, font-size
--Resize and center header images universally
--Convert Ingredients section to a div, center text, and convert ul to inline-block with left-align
--Apply background-color to Ingredients div for practice
-Final thoughts: How to cut off background-color in div.ingredients so that it does not run from the entire left to right of the viewport.
-
+- After learning basic HTML elements, began to introduce divs to html structure.
+- After learning basic css, added stylesheet and updated font-family, font-size etc.
 
 # Update: August 18, 2023 Flexbox
 At this time I began to incorporate Flexbox into the website design and created a header and navigation bar.
